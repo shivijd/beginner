@@ -6,10 +6,10 @@ printf("enter the number");
 scanf("%s",&n);
 if(n=='a'||'e'||'i'||'o'||'u')
 {
-	printf("number is vowel");
+	printf("character is vowel");
 }
 else
 {
-	printf("number is consonent");
+	printf("character is consonent");
 }
 }
