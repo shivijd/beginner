@@ -10,10 +10,14 @@ if(n==0)
 }
 if(n<0)
 {
-	printf("number is negative");
+	printf("negative");
 }
 else if(n>0 && n<100000)
 {
-	printf("number is positive");
+	printf("positive");
+}
+else
+{
+	printf("out of range");
 }
 }
