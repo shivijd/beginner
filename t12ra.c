@@ -21,7 +21,7 @@ void main()
 	}
 	if(re == n)
 	{
-		printf("number is armstrong %d",n);
+		printf("yes");
 	}
 	else if(orgno>100000)
 	{
@@ -29,6 +29,6 @@ void main()
 	}
 	else
 	{
-		printf("not armstrong");
+		printf("no");
 	}
 }
