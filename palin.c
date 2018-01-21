@@ -13,10 +13,10 @@ void main()
 }
 if(rev==n)
 {
-printf("number is palindrome");
+printf("yes");
 }
 else
 {
-	printf("not palindrome");
+	printf("no");
 }
 }
